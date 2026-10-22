@@ -1,0 +1,3 @@
+ambiente,configuracao,algoritmo,sementes,recompensa_media,recompensa_desvio,passos_media,taxa_sucesso,q_inicial_medio,retorno_descontado_real_medio,gap_superestimacao_aprox_medio
+MountainCar-v0,baseline,DDQN,3,-176.08333333333334,36.29086436223573,176.08333333333334,0.3333333333333333,-89.03645807902018,-81.68865843114817,-7.347799647872012
+MountainCar-v0,baseline,DQN,3,-200.0,0.0,200.0,0.0,-99.06171798706055,-86.6020325142037,-12.459685472856847

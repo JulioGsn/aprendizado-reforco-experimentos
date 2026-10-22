@@ -1,0 +1,3 @@
+algorithm,seeds,final_return_mean,final_return_sd,final_return_min,final_return_max
+DDQN,5,170.6,51.29498026123024,100.5,238.0
+DQN,5,232.2,42.9790646710698,188.0,286.5

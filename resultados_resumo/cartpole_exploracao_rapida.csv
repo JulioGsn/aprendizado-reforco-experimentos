@@ -1,0 +1,3 @@
+ambiente,configuracao,algoritmo,sementes,recompensa_media,recompensa_desvio,passos_media,taxa_sucesso,q_inicial_medio,retorno_descontado_real_medio,gap_superestimacao_aprox_medio
+CartPole-v1,exploracao_rapida,DDQN,3,187.28333333333333,120.51754097896212,187.28333333333333,0.0,80.02711283365885,75.51827802052324,4.508834813135619
+CartPole-v1,exploracao_rapida,DQN,3,71.03333333333333,41.44670527956442,71.03333333333333,0.0,64.74107316335042,46.53444206177247,18.20663110157796
